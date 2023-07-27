@@ -31,4 +31,5 @@ We would like to express our gratitude to the PARC Robotics Challenge organizers
 
 Let's work together to push the boundaries of robotics and make a significant impact in the field of agriculture!
 
+![image](https://github.com/Oyefusi-Samuel/IOTRONICS-PARC/assets/105239214/be023bbb-5b19-4509-b4f1-95a7fb0f693d)
 
