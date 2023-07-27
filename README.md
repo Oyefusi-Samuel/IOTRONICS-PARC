@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for the PARC Robotics Competition! Thi
 The PARC Robotics Competition is an annual event that brings together talented roboticists and enthusiasts from around the world to showcase their innovative solutions in the field of autonomous robotics. In this year's edition, the competition focuses on a combined task of navigation and weed detection in an agricultural environment.
 
 # Our Team:
-We are a passionate and dedicated team of robotics enthusiasts from [Your Institution/Organization]. Our team members possess a diverse set of skills, including robotics, computer vision, path planning, and machine learning. Together, we aim to tackle the challenges presented by the competition and demonstrate cutting-edge robotics solutions.
+We are a passionate and dedicated team of robotics enthusiasts from [Pan Atlantic University /Nigeria]. Our team members possess a diverse set of skills, including robotics, computer vision, path planning, and machine learning. Together, we aim to tackle the challenges presented by the competition and demonstrate cutting-edge robotics solutions.
 
 # Competition Tasks:
 During the competition's physical robot phase, our robot's primary objective is to navigate through a designated field while simultaneously identifying and tagging weeds. The robot must autonomously make real-time decisions and accurately publish weed locations at the end of the task. The competition poses exciting challenges that require us to develop robust and efficient algorithms.
