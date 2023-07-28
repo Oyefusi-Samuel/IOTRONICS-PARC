@@ -2,7 +2,7 @@
 ![H](https://github.com/Oyefusi-Samuel/IOTRONICS-PARC/assets/105239214/ec0c890c-e537-44fc-8107-323ba2014e4a)
 
 # IOTRONICS-PARC
-Welcome to the official GitHub repository for the PARC Robotics Competition! This repository contains the codebase and resources for our team's participation in the prestigious PARC Robotics Challenge.
+Welcome to the official GitHub repository for the PARC Robotics Competition (team-Iotronics)! This repository contains the codebase and resources for our team's participation in the prestigious PARC Robotics Challenge.
 
 # Competition Overview:
 The PARC Robotics Competition is an annual event that brings together talented roboticists and enthusiasts from around the world to showcase their innovative solutions in the field of autonomous robotics. In this year's edition, the competition focuses on a combined task of navigation and weed detection in an agricultural environment.
@@ -27,6 +27,7 @@ We strongly believe in the power of collaboration, and we warmly welcome contrib
 Together, we can create innovative solutions, make robotics more accessible, and positively impact the agricultural industry and beyond. Let's build a vibrant and inclusive community where ideas flow freely, and knowledge is shared for the betterment of all. We look forward to collaborating with you!
 
 # Acknowledgements:
+Mathworks, PARC organizers, 
 We would like to express our gratitude to the PARC Robotics Challenge organizers for providing this incredible platform to showcase our skills and innovations. Additionally, we thank the community for their continuous support and encouragement.
 
 Let's work together to push the boundaries of robotics and make a significant impact in the field of agriculture!
